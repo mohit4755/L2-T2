@@ -25,7 +25,7 @@ portfolio/
 ## 🔧 Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   https://github.com/mohit4755/L2-T2
    ```
 2. Open the project folder:
    ```bash
